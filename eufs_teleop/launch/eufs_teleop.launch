@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="eufs_teleop" name="talk" type="talk" output="screen" launch-prefix="xterm -e"/>
+</launch>
+
